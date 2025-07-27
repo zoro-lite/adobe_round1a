@@ -1,0 +1,3915 @@
+{
+  "title": "Summer Internship Project Report",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "(YEAR 2020-22)",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "A Summer Project Proposal for",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Finlatics, Mumbai JIM, Noida",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Industry Mentor Faculty Mentor",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "July 2021",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Mr. Nisant Mohta Prof. Dr. Abhijit Nair",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "PGFC2041",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "POST GRADUATE DIPLOMA IN MANAGEMENT",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Portfolio Management And Equity Research on Banking Sector",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Shipra Kumari",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Summer Internship Project Report",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Under the guidance of",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "DECLARATION",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Finlatics, Mumbai",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "I also hereby declare that it has not previously formed the basis for the award to me for any degree",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "I hereby declare that the presented report entitled",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Jaipuria Institute of",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Management, Noida.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "PGFC2041",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Place: Noida",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Portfolio Management And Equity",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Research on Banking Sector",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Shipra Kumari",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "has been uniquely prepared by me and",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "with",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Date :- July 31",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "ACKNOWLEDGEMENT",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "I am highly indebted to all the employees of Finaltics for their time and cooperation they gave",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "It’s never easy to carry out",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "PGFC2041",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Shipra Kumari",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Thanking you,",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "all throughout the journey.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "directly or indirectly has contributed for the completion of my project report and encouraged me",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "from their busy schedule which helped me in completion of this project.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "gather",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "information from all sources within my reach.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "matter helped in successful completion of this project.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "opportunity to express gratitude to those who have been helpful to me in completing this project",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "opportunity to show my skills and I thank my family and friends who have helped me by giving",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "report.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "valuable suggestions during entire period of Summer training.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "EXECUTIVE SUMMARY",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "The fundamental point of this undertaking is to do portfolio the board and value",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "The number of initial public offering have been increasing per year and there are",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Valuation of the shares that are listed in exchange starts with examination of the area",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "associations foster their financial backers are benefitted with worthy benefit and",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "capital appreciation on interest in renowned parts of such associations.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "many new companies which have been listed on our stock exchanges and it has been",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "organizations in this country are developing at quicker speed when contrasted with",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "research in financial area and to discover the chances of interest in these areas we can",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "see the maximum returns.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "various parameters.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "CERTIFICATE FROM INDUSTRY MENTOR",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "FMEP Equity Markets Analyst.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Fincrux Technologies LLP.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Internship",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "LLPIN: AAL - 6499",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Mumbai 400093. Phone No. +91 22 6708 6037",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Registered Office: 903, Atrium 2, Andheri – Kurla Road, Andheri (East),",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Shipra Singh",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "This is to certify that",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Training at Fincrux Technologies LLP, Mumbai",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "has undertaken the Summer",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Centre",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Letter of Recommendation",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Program. Fincrux is recognised as a",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Shipra",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Start",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "TO W hom It M ay Concern:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "This is to state that I have known",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "consistency and grit.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "does Shipra engage in equity research and analysis but also implements the strategies in real",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "ups selected for the prestigious incubation program at Atal Incubation",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "ABSTRACT",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "The establishing standards of corporate administration lays accentuation principally relies on",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "The push for more noteworthy straightforwardness towards partners of the business has",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "administration issues in the perspective on Basel and Birla board of trustees proposal in the last",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "corporate disappointments and inescapable disappointment with the way numerous corporate",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "financial framework.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "high profile corporate administration disappointments in created country have carried the subject",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "likewise an undeniably more prominent interest on financial backer interests and public",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "of improvement and social achievement of the association and the perceivability of its",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "we likewise have talked about the need and essentials for corporate administration in Indian",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "worldwide marvel.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "1.1",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "1.1.1",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "1.1.2",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "1.2",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "1.3",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "2.2 JOB DESCRIPTION",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "3.1 JOB ANALYSIS",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "3.1.1 PROJECT",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "3.2.2 PROJECT",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "3.3.3 PROJECT",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "4.1 LEARNING OUTCOMES & FINDINGS",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "5.1 SUGGESTIONS",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "6.1 CONCLUSION",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "7.1",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "BANKING SECTOR",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "BIBLIOGRAPHY",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "CHAPTER 1",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "CHAPTER 2",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "CHAPTER 3",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "CHAPTER 4 ...",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "CHAPTER 5",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "CHAPTER 6",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "CHAPTER 7",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "COMPANY OVERVIEW",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "EQUITY RESEARCH",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "INDUSTRY OVERVIEW",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "SWOT ANALYSIS",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "TABLE OF CONTENT",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "CHAPTER 1",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "1.1 INDUSTRY OVERVIEW",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "1.1.1 EDUCATION INDUSTRY",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "2000 to March 2019, as shown in the data passed by DPIIT.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "37.12 Billion. The ratio of the enrollment has reached to a percentage of 26.1.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "India has become the second largest for online learning market and the first in this list is US.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "India is amongst one of the nations which stands at a very good place when it comes to keeping",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "India’s",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Introduction",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Investments/ Recent developments.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Market Size",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "One of the greatest opportunities for the education sector is because of the",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "School and colleges have increased year by year and currently the number is estimated around",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "achieved various milestones and have good number of connections and networks all across the",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "division cover Financial Sector.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "million users.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "population.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Figure 1: Education Sector market size",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "GOVERNMENT INITIATIVES",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Union budget has predicted that the share for the school system of education is expected",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "competition amongst the players in the education sector In a positive way and in a",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "healthy way.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "learning sector.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "schemes and also on quality purpose.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "started to survey the new innovations and basically It will help to promote the",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "turn provide with the vocational program and training to the youngsters.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "2019 as many as 2.35 million students would be eligible",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "ACHIEVEMENTS OF THE GOVERNMENT",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Our Prime Minister has inaugurated the initiative which is skill India",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "ROAD AHEAD",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "The initiatives launched include various programmes like Pradhan Mantri Kaushal Vikas",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Transformational and various new learning methods would be adopted by the education",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "find jobs.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "system for higher studies.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "1.1.2 FINANCIAL INDUSTRY",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Be among the top five countries in the world in terms of research output with an annual",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Government have been focusing on increasing the reach of online education and correspondence",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "INTRODUCTION",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Indian government has made several changes to basically contribute in the growth of the",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "MARKET SIZE",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Market Overview",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Payments banks have been created lately on the orders of the banking regulator and in turn it has",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Significance of the HR or the resource provided by the humans is gaining popularity and is",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "The financial sector of India is very diverse and it has in the last few years has undergone a lot of",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "entities.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "have been issued to the banks regarding the requirements and various units have been set up to",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "industry in the current ten years.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "one of the best position in the terms of financial markets.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "sector consist of many banking and non banking companies along with the new and old financial",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "total assests that is been held by the financial regulators.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Assets Under Managemen",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Eroute Technologies have been given the permission to function as a PPI company by",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "INVESTMENTS",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "In addition,",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "One more very important part of",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Till March 2021,",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "area by utilizing progression and developing an extraordinary climate for headway.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "astonishing affirmation development network in the country through another course trade stage.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "dispatching a general application",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "driving bourse will set up a joint endeavor with Ebix Inc to foster an",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "retail financial allies more noticeable adaptability to deal with their records.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "start of this monetary year and the common requesting respect has stretched out by",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "t which is managed by the financial sector stood at",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "the financial regulators in the month of May.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "GOVERNMENT INITIATIVES",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "In November 2020,",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "India International Exchange and Luxembourg Stock Exchange and one more between",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "India is today quite possibly the most dynamic worldwide economies on the rear of",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Non-Banking Financial Company",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "ROAD AHEAD",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "State Bank of India and Luxembourg Stock Exchange for collaboration in monetary",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "There has been complete approval by the government in case of",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Two",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "avoidance.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "for the purpose of insurance and limit of",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "foreign direct",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "foreign direct investment",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "has also",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "investment",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "memorandum of understanding were signed in",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "neighborhood market.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "one between",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "reporting intends to build their stakes in joint endeavors with Indian organizations.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "that",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "that is Flipkart.",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "was a dividend policy by",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "where it has given a proposal",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "1.2",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "232 teams) was offered for incubation at the prestigious Atal Incubation Center -",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "COMPANY OVERVIEW",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "It’s a project or a venture that",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "The primary function or the focus of Finlatics was to basically improve the number of",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "between worldwide protection goliaths and nearby players.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "but you will also receive basic training to earn certifications from large and renowned",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "companies.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "conceived and launched as a leading work experience platform that helps users",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "people who are participating in stock markets and the current participation is around",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "09 January 2018",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "3 years, 5 month, 30 days",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "AAL-6499",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Active",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Age of Company",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "COMPANY INFORMATION",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Company Name",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Company Status",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Date of Incorporation",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Description of main division",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Details",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "FINCRUX TECHNOLOGIES LLP",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "It is our intend to construct a local area of dynamic students and empower a large number of",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "LLP Identification Number",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "MISSION",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Main division of business activity to",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Number Of Partners",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Number of Designated Partners",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Other Business Activities",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "Particulars",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "RoC",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "RoC-Mumbai",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "be carried out in India",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "investment in India",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "understudies across the globe to utilize experiential learning to support monetary business sectors",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "VISION",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "and key administrations.",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "E-LEARNING",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "KEY TAKEAWAYS",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "PRODUCT DESCRIPTION",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "PRODUCTS AND SERVICES",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Project-based curriculum integration in campuses",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "SECTOR CHARACTERISTICS:",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "The",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "The economic vicinity is a phase of the economic system constituted of companies and",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "The job of innovation in the instructive area is expanding at an incredible rate and has",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "What Is the Financial Sector?",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "and land companies.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "constituted of companies and foundations that provide economic varieties of help to",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "drove steerage that gives installation realities or depicts a easy manner to records via way of",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "economic vicinity produces a respectable little bit of its earnings from advances and",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "institutions that provide economic varieties of help to commercial enterprise and retail",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "land companies.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "that understudies get a extra profound records via dynamic research of real problems and",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "MARKET POTENTIAL:",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "and extending their EdTech items and administrations",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "broadband web and PCs to help educating and learning.",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "innovative apparatuses have been created to take into account the assorted",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "instructing getting to know.",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "need to be applied to beautify and now no longer supersede standard varieties of",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "organizations are embracing internet learning instruments for working on the commitment and",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "the scholars do not end up overpowered via way of means of the innovation of those",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "FINANCIAL SERVICES",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "SWOT analysis of Center of Digital Excellence (CODE) Private limited:",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Strengths:",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Advantage of being first mover",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "By increasing advertisement and also by introducing new products the",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Company Finlatics presently does not have any weaknesses as far as this present project",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Company provides adequate advertisements and conducts awareness campaigns,",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Critical talent is lacking",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Developments in Artificial Intelligence",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Easy availability of the products in markets all over India and a few select global",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Increased Trend of Online Education",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Market of",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Opportunities in Adjacent Markets",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Opportunities:",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Product Portfolio of Coursers are diverse",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "There is a vast market to be captured not only in the different States of India but",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Weakness:",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "also in major cities worldwide.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "as we are treading uncharted path.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "education and products are increasing each day.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "individuals are reliant upon online training.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "is in consideration.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "is the forte of Company Finlatics.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "markets.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "under the Act.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Business Model can be imitated",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Economic Recession",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Individuals will go through low measures of cash and furthermore over",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "New follower companies entering in market is another threat.",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "This is additionally the hour of financial downturn.",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Threats:",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "fundamental items.",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "CHAPTER 2",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "2.1 JOB DESCRIPTION",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "EQUITY RESEARCH",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Finance Intern",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "For making these projections a careful study on potential market was done to arrive at realistic",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Job Overview:",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "PROJECTIONS",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Reports To:",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "That is the place where Equity Researchers come into the image.",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "The",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "The essential Equity Research Associate expected set of responsibilities is giving examination of",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "examination partner should do the brunt of the valuation and affectability investigation work all",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "gather information.",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "will report to the founder.",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "work requires critical thinking mastery and a wide information on the securities exchange to",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "It is a pivotal role Being an equity researcher associate as it broadly involves the",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Learning and implement algorithms to improve trading strategies",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Mining data and doing research on fundamental and technical analysis of the stocks.",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "OTHER DUTIES AND RESPONSIBILITIES",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Prepare research reports providing regular updates on industries and companies under",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Top gainers, top losers,",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Write an equity research report detailing the industry outlook and the investment thesis on",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "a particular stock or multiple stocks under coverage",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "coverage",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "in the Indian equity markets.",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "is in turn useful in making important investment decisions",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "listed companies.",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "on what happened the whole week.",
+      "page": 28
+    },
+    {
+      "level": "H1",
+      "text": "CHAPTER 3",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "3.1 JOB ANALYSIS",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "3.1.1 PROJECT 1",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "A particular fundraiser or resource manager may not be willing to put all his money into",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "If the actual situation is different from the portfolio index process that needs to be",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "MEANING OF PORTFOLIO MANAGEMENT",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "OBJECTIVES OF PORTFOLIO MANAGEMENT",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "PORTFOLIO MANAGEMENT",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "The main goal is to expand portfolio recovery and always limit portfolio risk by",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "changed.",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "expanding.",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "funding requirement.",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "manages the portfolio of others or who also created a portfolio of hypotheses that has the",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "to meet the needs of fundraisers often remembers making a few estimates with respect to",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "various objectives are as follows:",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "1. Expand the portfolio value",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "1. To outline the speculation system and select a venture blend to accomplish the ideal venture",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "2. Search for balance in a portfolio",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "2. To give a fair portfolio which not exclusively can fence against the expansion yet can likewise",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "3. To make opportune purchasing and selling of protections;",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "Each financial investor is risk averse.",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "FUNCTIONS OF PORTFOLIO MANAGEMENT",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "The fundamental motivation behind portfolio the board is to expand yield and minimize hazard.",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "There are three purposes for portfolio leaders:",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "To expand the risk by putting into different protections following capacities are required to be",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "awareness of the market costs of the offer.",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "gadgets to assist in achieving these goals.",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "improvement",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "yields and separate returns.",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "4. To amplify the after-government form by putting resources into different duties saving venture",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "instruments.",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "3.1.2 PROJECT 2",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "66 billion",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "As indicated",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "BANKING SECTOR",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "CAGR of 3.57%. Since FY20,",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "INTRODUCTION",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "India's",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "MARKET SIZE",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "November 2020,",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "achievement",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "advanced",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "along with",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "area",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "assist",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "banks",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "banks and",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "become",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "cease",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "constructing",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "country wide",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "credit score",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "critical",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "cross",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "debt",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "degree",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "district has",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "economic",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "elements",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "endorsed",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "enterprise",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "establishments",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "exceedingly",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "excessive",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "extended",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "factor",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "fashions",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "financial institution",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "foreign money",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "forty six",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "glaringly",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "has",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "has been",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "herbal",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "higher",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "improved",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "in FPII.",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "includes",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "international locations",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "lakh crore at Financial",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "launched",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "local",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "machine",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "made",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "manner",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "marketplace",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "may want to",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "mortgage",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "nearby",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "ninety six",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "no matter",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "not",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "of ATM India",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "of speculative",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "on the",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "properly",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "property",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "public",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "purchases assumes that Indian banks are very",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "relaxation",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "satisfactorily",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "scenario",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "seeing that",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "shape",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "shops",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "supporting",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "the entire",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "the various",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "threat",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "to convert",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "tolerated",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "truly",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "unmarried",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "unusual place",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "visible",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "wide variety",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "with IMPS",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "with the aid of using",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "within",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "withinside the",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "without a doubt",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "12 months",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "32 M&A (consolidation and",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "5.7% in January 2021",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "8.5%",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "Association",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "Bank and privatize PSUs.",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "December 2020, Axis Bank and Max Hospitals participated",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "December 8, 2020, Facebook",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "Financial Year 2020. As",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "GOVERNMENT INITIATIVES",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "INVESTMENT",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "In the month of March 28, 2021, the",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "Indian banking",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "Jan Dhan remained over Rs. 1.91 lakh crore",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "Million in",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "Public sector bank raised US 99",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "RRBs who",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "Significant investments and",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "UPI in a",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "US $2.1 trillion",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "While considering the Union Budget 2021-22,",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "acquiring",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "an UPI stakeholder",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "as a result of",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "as much as",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "assist",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "at the",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "banks recording a",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "because of",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "below",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "biggest",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "billion.",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "bonds.",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "boom",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "business",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "business enterprise",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "complete",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "confirmed",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "crore and in",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "document",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "economic",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "enterprise",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "establishments",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "excessive",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "final",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "financial institution",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "fitness",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "for",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "for RRBs",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "for the continuation",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "forty",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "have made changes in the digital lending services.",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "healing",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "idea",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "identified",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "in India in",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "in line with",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "include:",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "inexperienced",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "its",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "kilos",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "least",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "lifestyles",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "manner.",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "meals",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "ninety three",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "occasions",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "of the",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "of using",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "offering",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "one",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "open",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "opened",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "pointers",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "proposed",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "proven",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "rather than",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "really well worth",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "recognise",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "recreation",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "regarded",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "registration",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "release",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "released",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "restricted",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "robust",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "role",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "sample",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "seventy two",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "shops",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "software",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "statistics",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "such as",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "supplied",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "that makes a",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "the RBI.",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "the authoritative",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "the general public",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "the ones",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "the principle",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "trends",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "wide variety",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "will disinvest Axis",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "with the aid",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "with the aid of using",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "withinside the",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "years",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "ACHIEVEMENTS",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "According to the RBI, India's new",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Following are the accomplishments of the Government:",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Further",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "GENERAL OVERVIEW",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "GST rebate module and an",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Government",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "HDFC Bank Ltd.",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "In May 2021, UPI recorded",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "March.",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Moreover, the",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "ROAD AHEAD",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "The",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "The Government of India",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Two sector I did research on are :-",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "Union Budget 2019-20, the Government proposed",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "With the",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "additives",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "advanced",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "aggressive",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "aid of using",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "and updating their",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "are",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "assist",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "average",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "banking",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "banks",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "banks a",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "bill.",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "billion trades",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "brief",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "broaden",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "business enterprise",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "change",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "compact and",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "confirmed",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "considerable",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "created",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "credit score",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "customers",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "definitely",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "deliberate",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "developing",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "development",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "digital",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "discard",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "economic",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "edge.",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "efficaciously",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "eight.",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "element",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "emphasis on",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "execution of assignments and continuation of",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "extra",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "for an",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "for his or her",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "forty one",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "groups",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "had to",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "has",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "holds",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "in addition",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "in line with",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "increase",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "institutions",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "introduced",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "is laying",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "is ready",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "lakh",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "lowering",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "machine",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "manner",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "modifications",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "moreover",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "needs.",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "net",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "notable",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "of Public Sector Banks",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "of trades",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "place",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "prolonged",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "propose",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "providing",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "rapid",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "really well worth",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "receipt",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "robotized",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "seventy three",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "shape",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "short",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "similarly",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "spending on",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "supply",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "the aid of using",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "the need",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "the quantity",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "thru",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "to their",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "trade",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "types of",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "visit",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "wide variety",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "will",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "with",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "with a purpose to",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "with the aid of using",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "withinside the",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "1994. HDFC Bank was incorporated in August 1994 in the name of HDFC Bank",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "21.23%",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "39.79%",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Business area of the Bank",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "DII",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "FII",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Others 0%",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Promotors 25.97%",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Public 13.01%",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Retail Banking.",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "SHARE HOLDING PATTERN",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "This bank had been catering to the very broad category of financial services which has",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Treasury and,",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "Wholesale Banking",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "covered investment banking comprising the wholesale side and transactional part on the",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "retail section and commercial services.",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "share and bond issues and unclaimed dividend.",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "1. Kotak Mahindra Bank, and",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "2. ICICI Bank",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "COMPETITIVE ANALYSIS",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "CONCLUSION AND WAY FORWARD FOR THE COMPANY",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Competitor #1 - Kotak Mahindra Bank",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Competitor #2 - ICICI Bank",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Competitors.",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "The two close competitors are:",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "consistent and stable profits.",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "earnings and strong investors relations.",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "trend analysis.",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "1956. It got the support of enlistment from the Reserve Bank of India in May 2009 to start the",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "ADITYA BIRLA CAPITAL LTD.",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Advising",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Business area of the Bank",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Financing",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "GENERAL OVERVIEW",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Insurance",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Products",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Wealth management",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "astonishing headway to become one of the greatest money related organizations significant parts",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "unadulterated play recorded holding association of the general huge number of financial",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Asset quality execution in the NBFC business has been top tier",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "Brand name gives it an edge in AMC and Life Insurance organizations",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "Company with Zero Promoter Pledge",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "Company with high TTM EPS Growth",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "OF THE COMPANY",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "Presence in high-development and adaptable business fragments",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "SHARE HOLDING PATTERN",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "STRENGTHS, WEAKNESSES, OPPORTUNITIES & THREATS (SWOT) ANALYSIS",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "Strengths",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "Weaknesses",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "COMPETITIVE ANALYSIS",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "Companies with High Debt",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "Cost structure in the AMC business is higher than peers",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "Decrease in Provision in ongoing outcomes",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "Highest Recovery from 52 Week Low",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "Insiders purchased stocks",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "Intense contest in the retail home credit fragment",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "MACD Crossover Below Signal Line",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "MFs diminished their shareholding last quarter",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "Operates in underpenetrated business fragments with colossal development potential",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "Opportunities",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "Post-overwhelm VNB edges actually negative",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "Promoter diminishing their shareholding",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "RSI showing value strength",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "Red Flag: High Interest Payments Compared to Earnings",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "Threats",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "could bring about moderate bring proportions back",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "presents a gigantic development opportunity",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "383.72 > 0) then, at that point \"developed\" else \"declined\";# by 383.72 % YOY.",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "CONCLUSION AND WAY FORWARD FOR THE COMPANY",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "Key Financials",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "accompanying focuses:",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "are required to empower development in the business.",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "develop.",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "income numbers since it demonstrates organization the executives is expanding the",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "into the monetary business sectors.",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "quantity of mediums accessible will in general draw in more financial backers to put resources",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "under entrance of the common asset industry offers a tremendous open door for the business to",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "Financial Ratios",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "check whether the supply of Aditya Birla Capital is worth at the current levels at Rs",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "share to know whether the stock is underestimated or exaggerated.",
+      "page": 42
+    },
+    {
+      "level": "H1",
+      "text": "CHAPTER 4",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "4.1 LEARNING OUTCOMES & FINDINGS",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "Competitive edge in the Industry",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "Customer footfall in the website",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "Gained knowledge about financial modeling improvements in the planning and forecasting",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "Internship tenure I came to know about the Investors perception and the parameters",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "Many Investors invest in the f",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "Payback period",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "Return on Investment",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "changing economics or structure of the business.",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "domains and respectively apply for the appropriate scheme.",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "year onwards.",
+      "page": 44
+    },
+    {
+      "level": "H1",
+      "text": "CHAPTER 5",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "5.1 SUGGESTIONS",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "As the Company is a startup so it faces several problems in the management of various",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "Certain measures should be taken to avoid those gaps.",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "Company.",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "HR should also try to establish a healthy organization culture which would motivate the",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "The Company should minimize their expenses as they were undergoing certain losses.",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "There should be a proper trainer in the Company who can hep the interns throughout the",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "They should promote their marketing department also which will bring some order to",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "based on their needs.",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "departments.",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "employees and enables them to do their work with excitement.",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "employees.",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "identify bottle neck in the company and can help throughout improving the efficiency as",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "well as cost cutting.",
+      "page": 46
+    },
+    {
+      "level": "H1",
+      "text": "CHAPTER 6",
+      "page": 47
+    },
+    {
+      "level": "H3",
+      "text": "6.1 CONCLUSION",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "I was able to analyze my efficiency and my area of improvement and was able to",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "I’m sure tha",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "Overall my experience of working in corporate world was amazing.",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "experiences.",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "factors.",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "in Corporate World.",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "in Finlatics.",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "overcome them by the end of the Internship problem.",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "professional life.",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "programme is an important part of a curriculum as it prepares for stepping into the forthcoming",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "t the knowledge I have gained there will help me when I will start my Career",
+      "page": 48
+    },
+    {
+      "level": "H1",
+      "text": "CHAPTER 7",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "7.1 BIBLIOGRAPHY",
+      "page": 50
+    }
+  ]
+}
